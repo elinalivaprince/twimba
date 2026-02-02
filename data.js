@@ -1,3 +1,11 @@
+import trollPic from './images/troll.jpg';
+import muskPic from './images/musk.png';
+import tcruisePic from './images/tcruise.png';
+import chuckPic from './images/chucknorris.jpeg';
+import flowerPic from './images/flower.png';
+import overflowPic from './images/overflow.png';
+import lovePic from './images/love.png';
+
 export const tweetsData = [   
     {
         handle: `@TrollBot66756542 💎`,
